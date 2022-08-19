@@ -5,7 +5,7 @@
 - 👩‍🎨 I am <strong>Aakash Modi</strong> from <strong>M.p Indore, India</strong> currently pursuing my graduation degree from <strong>Government Engineering College Rewa,</strong>
 - 🥇 I am passionate about my work. Because I love what I do.
 - 💻 I am future Software Developer, always learning new things, ready for discussions and making new projects etc.
-- 🌱 I’m currently learning <strong>Python & Django and Strong DSA</strong>
+- 🌱 I’m currently learning <strong>Python & Django and Strong hold on DSA</strong>
 - 💬 Ask me about anything...
 - 📫 How to reach me **akashmodi371@gmail.com**
 
