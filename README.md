@@ -23,7 +23,6 @@
 
 <h3 align="left">🤝 Connect with me:</h3>
 <a href="https://www.linkedin.com/in/aakash-modi-vijaywergiya-62a6a6130/"alt="LinkedIn"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/aakashmodi__/"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/akash371" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/akash371" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/akashmodi371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akashmodi371/" height="30" width="40" /></a>
 </p>
