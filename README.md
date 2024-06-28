@@ -24,21 +24,35 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/iamaakashmodi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamaakashmodi" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/akash9026" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akash9026" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/akmodi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akmodi" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/akashmodi371" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashmodi371" height="30" width="40" />
-  </a>
-</p>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px;">
+    <h3 align="left">Connect with me:</h3>
+    <p align="left">
+      <a href="https://linkedin.com/in/iamaakashmodi" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamaakashmodi" height="30" width="40" />
+      </a>
+      <a href="https://www.codechef.com/users/akash9026" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akash9026" height="30" width="40" />
+      </a>
+      <a href="https://codeforces.com/profile/akmodi" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akmodi" height="30" width="40" />
+      </a>
+      <a href="https://www.leetcode.com/akashmodi371" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashmodi371" height="30" width="40" />
+      </a>
+    </p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
+</div>
+
+
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -144,8 +158,6 @@
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
- ![snake gif](https://github.com/sudoshivesh/sudoshivesh/blob/output/github-contribution-grid-snake.gif)
 
- 
 
 
