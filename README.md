@@ -12,7 +12,7 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>
-      - 🔭 I’m currently working in <strong>Enitiate</strong><br>
+      - 🔭 I’m currently working in <strong> <a href="https://www.enitiate.gg/">Enitiate</a></strong><br>
       - 👨‍💻 All of my projects are available at <a href="https://aakash-tech-profile.vercel.app/">https://aakash-tech-profile.vercel.app/</a><br>
       - 💬 Ask me about <strong>Java, SpringBoot, ReactJs, Data Structure & Algorithm</strong><br>
       - 📫 How to reach me <strong>Akashmodi371@gmail.com</strong><br>
