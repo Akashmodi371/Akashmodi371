@@ -146,7 +146,7 @@
 
  ![Snake animation](https://github.com/akashmodi371/akashmodi371/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
  
 
 
