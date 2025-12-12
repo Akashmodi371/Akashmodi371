@@ -327,21 +327,38 @@ graph TB
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Akashmodi371&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Aakash Modi github stats" /> 
 
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Akashmodi371&theme=react&hide_border=true&background=0d1117&stroke=0000&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" />
+<a href="https://github.com/Akashmodi371">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akashmodi371&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+</a>
+<a href="https://github.com/Akashmodi371">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashmodi371&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+</a>
 
-<br/><br/>
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashmodi371&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-
-<img width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akashmodi371&bg_color=0d1117&color=3B82F6&line=3B82F6&point=c9d1d9&area=true&hide_border=true" />
+</div>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akashmodi371&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+<div align="center">
+  <a href="https://github.com/Akashmodi371">
+    <img src="https://streak-stats.demolab.com/?user=Akashmodi371&theme=react&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Akashmodi371">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashmodi371&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" alt="Contribution Graph" width="95%"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Akashmodi371">
+    <img src="https://github-profile-trophy.vercel.app/?username=Akashmodi371&theme=discord&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 <br/>
