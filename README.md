@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Aakash%20Modi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-### Software Engineer • Backend Architect • AI/LLM Engineer
+### Software Engineer • Backend (Java/Python) • AI/LLM Engineer
 
 <br/>
 
