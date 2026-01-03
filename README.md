@@ -44,7 +44,7 @@
 
 🎯 **Current Role:** Software Engineer @ **UCH.AI**
 
-📍 **Location:** Indore, India 🇮🇳
+📍 **Location:** Bengluru, India 🇮🇳
 
 💼 **Experience:** 2+ years building production systems
 
