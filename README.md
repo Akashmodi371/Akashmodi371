@@ -326,7 +326,7 @@ graph TB
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/Akashmodi371">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akashmodi371&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
@@ -335,7 +335,7 @@ graph TB
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashmodi371&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
 </a>
 
-</div>
+</div> -->
 
 <br/>
 
