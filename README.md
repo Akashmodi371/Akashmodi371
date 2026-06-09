@@ -16,7 +16,7 @@
 
 </div>
 
----
+-----
 
 ## About Me
 
@@ -25,12 +25,13 @@ I am a software engineer building production-grade systems at the intersection o
 At **UCH.AI**, I work on microservices, scalable backend systems, and LLM-powered workflows for large government platforms. I enjoy turning complex problems into clean, reliable, and high-impact products.
 
 What defines my work:
+
 - Strong backend engineering with **Java** and **Spring Boot**
 - Practical experience with **AI agents, RAG, LangChain, LangGraph, and MCP**
 - Building systems that are fast, scalable, and ready for production
 - Focus on clean architecture, performance, and real business value
 
----
+-----
 
 ## What I Work With
 
@@ -46,20 +47,26 @@ What defines my work:
 **Data**
 `MongoDB` `PostgreSQL` `MySQL` `Redis` `ChromaDB` `Pinecone`
 
----
+-----
 
 ## Featured Work
 
-### Multi-Agent Customer Support System
+### ARMO AI — Agent Resource Monitor & Observability Platform
 
-Built a distributed AI support system using **Java 21**, **Spring Boot**, **FastAPI**, **LangChain**, and **LangGraph**.  
-The system uses an intelligent router to classify and dispatch tickets across specialized agents for billing, technical, and refund queries.
+[GitHub →](https://github.com/Akashmodi371/armo-ai)
 
-Impact:
-- Achieved **95%+ classification accuracy**
-- Handled **10,000+ tickets per day**
-- Reduced response latency to **sub-3 seconds**
-- Improved automation from **20% to 70%**
+Built a production-grade multi-agent observability platform that goes beyond RAG and basic agent wrappers — ARMO treats AI agents as **infrastructure**, tracking token usage, cost, latency, and tool calls across any LangGraph agent in real time.
+
+Key engineering decisions:
+
+- Designed **ArmoCallbackHandler**, a LangChain middleware that integrates with **zero code changes** into any existing agent — automatically captures token counts, tool calls, latency, and cost per LLM call
+- Implemented **per-employee AI cost tracking** with budget enforcement via API keys
+- Published the SDK to **PyPI** (`pip install armo-sdk`) for public use
+- Not a RAG chatbot or demo — this is **observability infrastructure for the agent era**, the same category Datadog and Grafana occupy for traditional systems
+
+Tech Stack: `FastAPI` `PostgreSQL` `Redis` `Next.js 14` `Tailwind CSS` `Framer Motion` `WebSocket` `Docker`
+
+-----
 
 ### Government Tender Processing Platform
 
@@ -67,11 +74,12 @@ Developed a large-scale backend platform for a national tender management workfl
 The system supports state transitions, document processing, ETL pipelines, and a bilingual AI chatbot for better accessibility and automation.
 
 Impact:
+
 - Built with **Spring Boot**, **Python**, **Kubernetes**, **GCP**, and **Azure**
 - Designed for high-volume processing and reliability
 - Delivered **99.9% uptime** in production
 
----
+-----
 
 ## GitHub Stats
 
@@ -86,7 +94,7 @@ Impact:
 
 </div>
 
----
+-----
 
 ## Achievements
 
@@ -95,7 +103,7 @@ Impact:
 - **Rank 7,669** in Google Kickstart Round E
 - Solved **500+ DSA problems** across LeetCode and GFG
 
----
+-----
 
 ## Certifications
 
@@ -106,17 +114,18 @@ Impact:
 `LLMs & LangChain`  
 `Agentic AI Engineering (2025)`
 
----
+-----
 
 ## Current Focus
 
 I am currently building systems that combine:
+
 - strong backend engineering
 - scalable cloud architecture
 - AI-powered automation
 - intelligent, agent-based workflows
 
----
+-----
 
 ## Let’s Connect
 
